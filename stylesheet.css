@@ -11,12 +11,12 @@
 .headline{
     text-align: center;
     color: white;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 .calculator{
     text-align: center;
     margin:0 auto;
-    padding-top: 35px;/*200*/
+    padding-top: 30px;/*200*/
     width: 400px;
 }
 .calculator-screen{
@@ -56,4 +56,15 @@ button:hover{
 }
 .operator:hover, .equal-sign:hover{
     background-color: darkorange;
+}
+.footline{
+    text-align: center;
+    color: black;
+    padding-top: 5px;
+    font-size: 16px;
+}
+
+.footline img{
+    height: 15px;
+    width: 15px;
 }
