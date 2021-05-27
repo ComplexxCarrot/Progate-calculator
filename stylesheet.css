@@ -1,7 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bigbody{
+    height: 625px;
+    background-image: url("https://i.pinimg.com/originals/7a/7d/cf/7a7dcfa6474ec4cbfa81113eebe3c0dc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headline{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
 .calculator{
     text-align: center;
     margin:0 auto;
-    padding-top: 100px;/*200*/
+    padding-top: 35px;/*200*/
     width: 400px;
 }
 .calculator-screen{
